@@ -1,6 +1,11 @@
+.freeman-regular {
+  font-family: "Freeman", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
 .frame {
   background-color: #188b57;
-  margin: 50px;
   padding: 20px;
   border-radius: 20px;
   width: 700px;
@@ -16,10 +21,6 @@
   background-size: cover;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-}
-
-.hero-img {
-  
 }
 
 #hero-section .hero-img {
@@ -47,13 +48,11 @@
 
 .activities-content {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
   margin: 10px;
 }
 
 .activities-card  {
-  box-shadow: 10px;
+
   text-align: center;
   padding: 10px;
   margin: 20px;
@@ -62,10 +61,6 @@
 
 #body-section {
   background-color: antiquewhite;
-}
-
-.beach-activity {
-  font-size: 14px;
 }
 
 #tour-guide-section {
