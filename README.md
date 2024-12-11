@@ -15,4 +15,4 @@ Whith this, I learned how:
 - Learn how to design in Figma and implement it on my coded website.
 - MOST OF ALL, I learned how to seek help from the community and google things as a way to fix problems I encoutered while making this project.
 
-Thank you for reading this README file and I hope you my solo project good. 😊
+Thank you for reading this README file and I hope you like my solo project. 😊
